@@ -26,11 +26,20 @@ TorchVision == 0.2.1
 
 ## To do list
 ### Image Classification
+- SENet [`[pdf]`](https://arxiv.org/abs/1709.01507)
 - NASNet-A [`[pdf]`](https://arxiv.org/abs/1707.07012)
 
 ### Image Generative Models
 - Vanilla AutoEncoder
 - Denoising AutoEncoder
+- WGAN [`[pdf]`](https://arxiv.org/abs/1701.07875)
+- LSGAN [`[pdf]`](https://arxiv.org/abs/1611.04076)
+- CGAN [`[pdf]`](https://arxiv.org/abs/1411.1784)
+- infoGAN [`[pdf]`](https://arxiv.org/abs/1606.03657)
+- BEGAN [`[pdf]`](https://arxiv.org/abs/1702.08431)
+- Pix2Pix [`[pdf]`](https://arxiv.org/abs/1611.07004)
+- CycleGAN [`[pdf]`](https://arxiv.org/abs/1703.10593)
 
 ### Image Super-Resolution
-- VDSR [`[pdf]`](https://arxiv.org/pdf/1511.04587.pdf) 
+- VDSR [`[pdf]`](https://arxiv.org/abs/1511.04587) 
+- EDSR [`[pdf]`](https://arxiv.org/abs/1707.02921) 
