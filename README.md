@@ -2,7 +2,7 @@
 A code list of practice using PyTorch. Inspired by [`some recommendation`](https://www.reddit.com/r/MachineLearning/comments/8vmuet/d_what_deep_learning_papers_should_i_implement_to/) and others.
 
 ## Contributor
-* Hoseong Lee
+* HoSeong Lee(hoya012)
 
 ## Requirements
 ```
