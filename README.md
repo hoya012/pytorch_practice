@@ -21,21 +21,24 @@ TorchVision == 0.2.1
 
 ### Image Generative Models
 - Vanilla AutoEncoder  [`[code]`](https://github.com/hoya012/pytorch_practice/blob/master/Image_Generative_model/Vanilla_AE.ipynb)  
-
+   - Result of Vanilla AutoEncoder. Odd line is original inputs, and Even line is AE outputs.  
+   
 <p align="center">
-  <img width="500" src="/result_images/result_AE.png" "Result of Vanilla AutoEncoder. Odd line is original inputs, and Even line is AE outputs ">
+  <img width="300" src="/result_images/result_AE.png" "Result of Vanilla AutoEncoder. Odd line is original inputs, and Even line is AE outputs ">
 </p>
 
 - Vanilla GAN [`[pdf]`](https://arxiv.org/abs/1406.2661) [`[code]`](https://github.com/hoya012/pytorch_practice/blob/master/Image_Generative_model/GAN.ipynb)
-
+   - Result of Vanilla GAN with MNIST.  
+   
 <p align="center">
-  <img width="500" src="/result_images/result_GAN.png" "Result of Vanilla GAN with MNIST ">
+  <img width="300" src="/result_images/result_GAN.png" "Result of Vanilla GAN with MNIST ">
 </p>
 
 - DCGAN [`[pdf]`](https://arxiv.org/abs/1511.06434) [`[code]`](https://github.com/hoya012/pytorch_practice/blob/master/Image_Generative_model/DCGAN.ipynb)
-
+   - Result of DCGAN with FashionMNIST.  
+   
 <p align="center">
-  <img width="500" src="/result_images/result_DCGAN.png" "Result of DCGAN with FashionMNIST ">
+  <img width="300" src="/result_images/result_DCGAN.png" "Result of DCGAN with FashionMNIST ">
 </p>
 
 
