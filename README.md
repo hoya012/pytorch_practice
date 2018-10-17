@@ -27,6 +27,14 @@ TorchVision == 0.2.1
   <img width="300" src="/result_images/result_AE.png" "Result of Vanilla AutoEncoder. Odd line is original inputs, and Even line is AE outputs ">
 </p>
 
+- Denoising AutoEncoder [`[code]`](https://github.com/hoya012/pytorch_practice/blob/master/Image_Generative_model/Denoising_AE.ipynb)  
+   - Result of Denoising AutoEncoder. Odd line is original inputs, and Even line is DAE outputs.  
+   
+<p align="center">
+  <img width="300" src="/result_images/result_DAE.png" "Result of Denoising AutoEncoder. Odd line is original inputs, and Even line is DAE outputs ">
+</p>
+
+
 - Vanilla GAN [`[pdf]`](https://arxiv.org/abs/1406.2661) [`[code]`](https://github.com/hoya012/pytorch_practice/blob/master/Image_Generative_model/GAN.ipynb)
    - Result of Vanilla GAN with MNIST.  
    
@@ -48,7 +56,7 @@ TorchVision == 0.2.1
 - NASNet-A [`[pdf]`](https://arxiv.org/abs/1707.07012)
 
 ### Image Generative Models
-- Denoising AutoEncoder
+
 - WGAN [`[pdf]`](https://arxiv.org/abs/1701.07875)
 - LSGAN [`[pdf]`](https://arxiv.org/abs/1611.04076)
 - CGAN [`[pdf]`](https://arxiv.org/abs/1411.1784)
