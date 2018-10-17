@@ -61,7 +61,7 @@ TorchVision == 0.2.1
 - LSGAN [`[pdf]`](https://arxiv.org/abs/1611.04076)
 - CGAN [`[pdf]`](https://arxiv.org/abs/1411.1784)
 - infoGAN [`[pdf]`](https://arxiv.org/abs/1606.03657)
-- BEGAN [`[pdf]`](https://arxiv.org/abs/1702.08431)
+- BGAN [`[pdf]`](https://arxiv.org/abs/1702.08431)
 - Pix2Pix [`[pdf]`](https://arxiv.org/abs/1611.07004)
 - CycleGAN [`[pdf]`](https://arxiv.org/abs/1703.10593)
 
